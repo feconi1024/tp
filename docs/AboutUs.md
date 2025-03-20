@@ -23,6 +23,7 @@ We are a team based in the [School of Computing, National University of Singapor
 <img src="images/yjunyeu.png" width="200px">
 
 [[github](http://github.com/yjunyeu)]
+[[portfolio](team/yjunyeu.md)]
 
 * Role: Developer
 * Responsibilities: Code quality, Git expert
@@ -56,4 +57,4 @@ We are a team based in the [School of Computing, National University of Singapor
 [[portfolio](team/leejiawei23.md)]
 
 * Role: Developer
-* Responsibilities: Testing, Integration
+* Responsibilities: Testing, UI
